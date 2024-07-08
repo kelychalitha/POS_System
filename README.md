@@ -4,6 +4,12 @@
 
 This repository contains the source code for a Point of Sale (POS) system, aiming to simplify and enhance the retail sales process. The system is developed with Spring Boot, React JS and includes features for efficient sales management and inventory control.
 
+There included Customer and Admin part. 
+=====================================================================
+For visit Admin Dashboard : http://localhost:3000/admin/login
+Customer view : http://localhost:3000/
+
+======================================================================
 
 Technologies Used:
 Spring Boot
